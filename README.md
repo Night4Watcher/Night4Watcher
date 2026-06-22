@@ -8,7 +8,7 @@
 ## 📖 About me
 
 * 💻 I'm a self-taught python developer
-* 🎓 I'm a 1 year Cibersecurity Student
+* 🎓 I'm a 3rd year Cibersecurity Student
 * 🌐 You can see some of my projects on [my repositories](https://github.com/Night4Watcher?tab=repositories)
 
 <!-- Metodos de contacto -->
